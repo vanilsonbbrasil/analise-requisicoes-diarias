@@ -1,4 +1,4 @@
-# Análise de Requisições Diárias
+# Projeto 1 - Análise de Requisições Diárias
 
 ## Contexto
 Análise do volume diário de requisições com foco em identificar padrões,
@@ -25,4 +25,23 @@ para o negócio.
 - Detecção de anomalias
 - Previsão de demanda
 - Criação de dashboards
+
+
+## Projeto 2 – Detecção de Anomalias em Séries Temporais
+
+Este projeto tem como objetivo identificar comportamentos atípicos no volume diário de requisições de um sistema, auxiliando na detecção precoce de possíveis problemas operacionais.
+
+### Metodologia
+- Análise exploratória da série temporal
+- Cálculo de média móvel como referência de comportamento esperado
+- Identificação de anomalias com base no desvio em relação à média
+- Visualização dos eventos anômalos
+
+### Principais Insights
+- Existe uma tendência de crescimento contínuo no volume de requisições
+- Fins de semana apresentam comportamento esperado de redução
+- Anomalias indicam picos que podem representar eventos atípicos ou riscos operacionais
+
+### Aplicação no Negócio
+Os resultados podem apoiar decisões sobre escalabilidade, capacidade da infraestrutura e monitoramento preventivo de sistemas.
 
