@@ -45,3 +45,10 @@ Este projeto tem como objetivo identificar comportamentos atípicos no volume di
 ### Aplicação no Negócio
 Os resultados podem apoiar decisões sobre escalabilidade, capacidade da infraestrutura e monitoramento preventivo de sistemas.
 
+
+## Projeto 3 - Seção forecast
+### Previsão de Demanda
+
+Foi desenvolvido um modelo de regressão linear para estimar o volume futuro de requisições com base na tendência histórica.  
+A previsão auxilia no planejamento operacional e na antecipação de riscos relacionados à capacidade da infraestrutura.
+
